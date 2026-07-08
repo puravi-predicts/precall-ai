@@ -1,0 +1,14 @@
+# Ignore the raw dataset
+bank-additional-full.csv
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
